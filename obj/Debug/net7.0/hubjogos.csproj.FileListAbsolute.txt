@@ -1,0 +1,15 @@
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\bin\Debug\net7.0\hubjogos.exe
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\bin\Debug\net7.0\hubjogos.deps.json
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\bin\Debug\net7.0\hubjogos.runtimeconfig.json
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\bin\Debug\net7.0\hubjogos.dll
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\bin\Debug\net7.0\hubjogos.pdb
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.csproj.AssemblyReference.cache
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.AssemblyInfo.cs
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.dll
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\refint\hubjogos.dll
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.pdb
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\hubjogos.genruntimeconfig.cache
+C:\Users\mauri\Documents\SharpCodders\c# no vscode\hubjogos\obj\Debug\net7.0\ref\hubjogos.dll
